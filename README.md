@@ -1,6 +1,6 @@
 ### Hi! Welcome to Sarah's GitHub! 👋🏻
 
-- 🎓 I’m a recent grad from Hack Reactor
+- 🎓 Hack Reactor alumna
 - 👗 Fashion Designer turned Software Engineer
 - 💻 Seeking a full-stack software engineering position
 - 📍 Located in Los Angeles but open to remote/relocation
